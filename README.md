@@ -1,4 +1,4 @@
-php-simple-html-dom-parser
+php-html-dom-parser
 ==========================
 
 Version 1.5.2
